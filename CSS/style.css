@@ -9,6 +9,7 @@ body {
     font-family: 'Libre Baskerville', serif;
 font-family: 'Raleway', sans-serif;
     font-size: 3rem; 
+    color: aliceblue;
 }
 
 
@@ -20,8 +21,8 @@ header {
     background-color: white;
     background-blend-mode: color-burn;
    
-    
 }
+
 .logo {
     width: 80px;;
 }
@@ -31,4 +32,29 @@ header {
 .fuentenav {
     font-size: 2.5rem;
     padding-left: 3rem;
+    /* color: rgb(228, 234, 240); */
+}
+.btn {
+    background-color: rgb(96, 152, 13);
+    color: aliceblue;
+    font-size: 2rem;
+}
+h2 {
+    font-size: 40px;
+}
+/* footer */
+.footernav {
+    font-size: 20px;
+   
+}
+#correo {
+    font-size: 20px;
+}
+
+/* logo wssp */
+.logowhats {
+    width: 80px;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
 }
