@@ -18,11 +18,12 @@ font-family: 'Raleway', sans-serif;
 
 /* header */
 header {
-    background-color: white;
+    background-color: rgb(18, 18, 18);
     background-blend-mode: color-burn;
-   
 }
-
+.colorNav {
+    color: aliceblue;
+}
 .logo {
     width: 80px;;
 }
@@ -30,8 +31,8 @@ header {
     width: 40px;
 }
 .fuentenav {
-    font-size: 2.5rem;
-    padding-left: 3rem;
+    font-size: 2.2rem;
+    padding-left: 4rem;
     /* color: rgb(228, 234, 240); */
 }
 
@@ -42,13 +43,16 @@ header {
     
 }
 
-h2 {
-    font-size: 20px;
+.footFont{
+    font-size: 30px;
 }
 /* footer */
 footer{
     font-size: 2rem;
+    border-top: solid 2px whitesmoke;
+
 }
+
 #correo {
     font-size: 20px;
 }
@@ -65,7 +69,35 @@ footer{
 .tituloind {
     text-align: center;
     text-transform: uppercase;
+    /* text-decoration-style: dashed; */
     font-weight: bold;
     padding: 1rem;
     font-size: 3rem;
 }
+/* carrousel */
+.imgcarro {
+    height: 80vh;
+    object-fit: cover;
+}
+
+.tituCar {
+    font-size: 3rem;
+    font-weight: bolder; 
+}
+.carroFont {
+font-size: 2rem;
+font-weight: bold;
+}
+
+.fontFea {
+    font-size: 3rem;
+    font-weight: bolder;
+    text-align: center;
+}
+.fontFea2 {
+    font-size: 2rem;
+    text-align: center;
+}
+/* .imgFea {
+    object-fit: contain;
+} */
