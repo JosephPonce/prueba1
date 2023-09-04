@@ -34,18 +34,20 @@ header {
     padding-left: 3rem;
     /* color: rgb(228, 234, 240); */
 }
+
 .btn {
-    background-color: rgb(96, 152, 13);
+    background-color: rgb(18, 19, 17);
     color: aliceblue;
     font-size: 2rem;
+    
 }
+
 h2 {
-    font-size: 40px;
+    font-size: 30px;
 }
 /* footer */
-.footernav {
-    font-size: 20px;
-   
+footer{
+    font-size: 2.5rem;
 }
 #correo {
     font-size: 20px;
@@ -58,3 +60,6 @@ h2 {
     bottom: 20px;
     right: 20px;
 }
+/* .footernav {
+    color: aliceblue;
+} */
