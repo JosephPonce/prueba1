@@ -115,3 +115,7 @@ font-weight: bold;
 .enterprise {
     background-color: rgb(229, 178, 23);
 }
+/* html oficinas */
+.contGoo {
+    box-sizing: 100px 100px;
+}
