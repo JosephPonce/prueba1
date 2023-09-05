@@ -12,10 +12,6 @@ font-family: 'Raleway', sans-serif;
     color: aliceblue;
 }
 
-
-
-
-
 /* header */
 header {
     background-color: rgb(18, 18, 18);
@@ -98,9 +94,6 @@ font-weight: bold;
     font-size: 2rem;
     text-align: center;
 }
-/* .imgFea {
-    object-fit: contain;
-} */
 
 /* PLANES HTML */
 .cardPlan {
