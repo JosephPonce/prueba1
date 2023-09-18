@@ -1,0 +1,193 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Raleway:wght@300&display=swap');
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    background-color: grey;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Raleway', sans-serif;
+    font-size: 3rem;
+    color: aliceblue;
+}
+
+/* header */
+header {
+    background-color: rgb(18, 18, 18);
+    background-blend-mode: color-burn;
+}
+
+.colorNav {
+    color: aliceblue;
+}
+
+.logo {
+    width: 180px;
+    ;
+}
+
+.logonav {
+    width: 60px;
+}
+
+.fuentenav {
+    font-size: 2.2rem;
+    padding-left: 4rem;
+    /* color: rgb(228, 234, 240); */
+}
+
+.btn {
+    background-color: rgb(18, 19, 17);
+    color: aliceblue;
+    font-size: 2rem;
+
+}
+
+.footFont {
+    font-size: 30px;
+}
+
+/* footer */
+footer {
+    font-size: 2rem;
+    border-top: solid 2px whitesmoke;
+
+}
+
+#correo {
+    font-size: 20px;
+}
+
+/* logo wssp */
+.logowhats {
+    width: 80px;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+
+/* Index */
+
+.tituloind {
+    text-align: center;
+    text-transform: uppercase;
+    /* text-decoration-style: dashed; */
+    font-weight: bold;
+    padding: 1rem;
+    font-size: 3rem;
+}
+
+/* carrousel */
+.imgcarro {
+    height: 80vh;
+    object-fit: cover;
+}
+
+.tituCar {
+    font-size: 3rem;
+    font-weight: bolder;
+}
+
+.carroFont {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.fontFea {
+    font-size: 3rem;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.fontFea2 {
+    font-size: 2rem;
+    text-align: center;
+}
+
+/* PLANES HTML */
+.cardPlan {
+    background-color: rgb(197, 197, 190);
+}
+
+.tituPlan {
+    color: rgb(18, 18, 18);
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+
+.enterprise {
+    background-color: rgb(229, 178, 23);
+}
+
+/* html oficinas */
+.contGoo {
+    box-sizing: 100px 100px;
+}
+
+.fondoOfi {
+    background-image: url("../img/negocio.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+
+.fontOfi {
+    text-transform: uppercase;
+    font-weight: bolder;
+    color: rgb(228, 240, 0);
+    font-style: inherit;
+
+    background-color: rgba(12, 12, 12, 0.879);
+}
+
+.ofiOfi {
+    font-size: 1.7rem;
+    color: aliceblue;
+}
+
+/* nosotros html */
+.logoWe{
+    width: 50%;
+}
+.inforMe {
+    text-align: center;
+    margin: 5% 5%;
+    padding: 2%;
+    background-color: rgb(43, 44, 49);
+    border-radius: 15px;
+}
+.excluSivo {
+    font-size: 6rem;
+    color: rgb(233, 233, 41);
+}
+.exclu {
+    font-size: 2rem;
+}
+.fotoNos {
+    height: 55vw;
+    
+}
+.btnNos {
+    margin: 20px;
+    text-transform: uppercase;
+}
+.btnWe {
+    font-size: 2.5rem;
+    font-weight: bolder;
+    text-decoration: none;
+    color: rgb(255, 255, 34);
+    padding: 15px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 50px;
+    
+}
+.btnWe:hover{
+    font-size: 3rem;
+    color: black;
+    background-color: rgb(225, 255, 0);
+    font-weight: bolder;
+    border-radius: 0;
+}
