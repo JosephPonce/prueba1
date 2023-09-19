@@ -1,37 +1,39 @@
-
-
-.tituloind {
-    text-align: center;
-    text-transform: uppercase;
-    /* text-decoration-style: dashed; */
-    font-weight: bold;
-    padding: 1rem;
-    font-size: 3rem;
-}
-
-/* carrousel */
-.imgcarro {
-    height: 80vh;
-    object-fit: cover;
-}
-
-.tituCar {
-    font-size: 3rem;
+@mixin classic {
+    font-size: $text-m;
     font-weight: bolder;
-}
-
-.carroFont {
-    font-size: 2rem;
-    font-weight: bold;
-}
-
-.fontFea {
-    font-size: 3rem;
-    font-weight: bolder;
-    text-align: center;
-}
-
-.fontFea2 {
-    font-size: 2rem;
-    text-align: center;
-}
+  }
+  .tituloind {
+      text-align: center;
+      text-transform: uppercase;
+    
+      /* text-decoration-style: dashed; */
+      padding: 1rem;
+      @include classic;
+      
+    }
+    
+    /* carrousel */
+    
+    .imgcarro {
+      height: 80vh;
+      object-fit: cover;
+    }
+    
+    .tituCar {
+      @include classic;
+    }
+    
+    .carroFont {
+      font-size: $text-xs;
+      font-weight: bold;
+    }
+    
+    .fontFea {
+      @include classic;
+      text-align: center;
+    }
+    
+    .fontFea2 {
+      font-size: $text-xs;
+      text-align: center;
+    }

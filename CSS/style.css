@@ -33,9 +33,9 @@ body {
   text-align: center;
   text-transform: uppercase;
   /* text-decoration-style: dashed; */
-  font-weight: bold;
   padding: 1rem;
   font-size: 3rem;
+  font-weight: bolder;
 }
 
 /* carrousel */
@@ -111,7 +111,7 @@ header {
 }
 
 .enterprise {
-  background-color: rgb(229, 178, 23);
+  background-color: rgb(255, 255, 34);
 }
 
 /* html oficinas */

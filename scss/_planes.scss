@@ -1,14 +1,14 @@
 /* PLANES HTML */
 .cardPlan {
     background-color: rgb(197, 197, 190);
-}
-
-.tituPlan {
+  }
+  
+  .tituPlan {
     color: rgb(18, 18, 18);
     text-transform: uppercase;
     font-weight: bolder;
-}
-
-.enterprise {
-    background-color: rgb(229, 178, 23);
-}
+  }
+  
+  .enterprise {
+    background-color: $color-main;
+  }

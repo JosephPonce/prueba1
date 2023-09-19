@@ -2,34 +2,33 @@
 header {
     background-color: rgb(18, 18, 18);
     background-blend-mode: color-burn;
-}
-
-.colorNav {
+  }
+  
+  .colorNav {
     color: aliceblue;
-}
-
-.logo {
+  }
+  
+  .logo {
     width: 180px;
-    ;
-}
-
-.logonav {
+  }
+  
+  .logonav {
     width: 60px;
-}
-
-.fuentenav {
+  }
+  
+  .fuentenav {
     font-size: 2.2rem;
     padding-left: 4rem;
+  
     /* color: rgb(228, 234, 240); */
-}
-
-.btn {
+  }
+  
+  .btn {
     background-color: rgb(18, 19, 17);
     color: aliceblue;
-    font-size: 2rem;
-
-}
-
-.footFont {
+    font-size: $text-xs;
+  }
+  
+  .footFont {
     font-size: 30px;
-}
+  }
