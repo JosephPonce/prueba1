@@ -1,0 +1,27 @@
+/* html oficinas */
+.contGoo {
+    box-sizing: 100px 100px;
+}
+
+.fondoOfi {
+    background-image: url("../img/negocio.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+
+.fontOfi {
+    text-transform: uppercase;
+    font-weight: bolder;
+    color: rgb(228, 240, 0);
+    font-style: inherit;
+
+    background-color: rgba(12, 12, 12, 0.879);
+}
+
+.ofiOfi {
+    font-size: 1.7rem;
+    color: aliceblue;
+}

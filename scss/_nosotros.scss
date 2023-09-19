@@ -1,0 +1,43 @@
+/* nosotros html */
+.logoWe{
+    width: 50%;
+}
+.inforMe {
+    text-align: center;
+    margin: 5% 5%;
+    padding: 2%;
+    background-color: rgb(43, 44, 49);
+    border-radius: 15px;
+}
+.excluSivo {
+    font-size: 6rem;
+    color: rgb(233, 233, 41);
+}
+.exclu {
+    font-size: 2rem;
+}
+.fotoNos {
+    height: 55vw;
+    
+}
+.btnNos {
+    margin: 20px;
+    text-transform: uppercase;
+}
+.btnWe {
+    font-size: 2.5rem;
+    font-weight: bolder;
+    text-decoration: none;
+    color: rgb(255, 255, 34);
+    padding: 15px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 50px;
+    
+}
+.btnWe:hover{
+    font-size: 3rem;
+    color: black;
+    background-color: rgb(225, 255, 0);
+    font-weight: bolder;
+    border-radius: 0;
+}
