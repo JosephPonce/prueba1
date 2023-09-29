@@ -1,0 +1,18 @@
+{
+    "version": 3,
+    "sourceRoot": "",
+    "sources": [
+        "../scss/main.scss",
+        "../scss/_footer.scss",
+        "../scss/_general.scss",
+        "../scss/_index.scss",
+        "../scss/_vars.scss",
+        "../scss/_nav.scss",
+        "../scss/_planes.scss",
+        "../scss/_oficinas.scss",
+        "../scss/_nosotros.scss"
+    ],
+    "names": [],
+    "mappings": "AAAQ;ACAR;AACA;EACI;EACA;;;AAIJ;EACI;;;AAEJ;AACA;EACI;EACA;EACA;EACA;;;ACfJ;EACI;;;AAGJ;EACI;EACA;EACA;EACA;EACA;;;ACLF;EACI;EACA;AAEA;EACA;EARF,WCDK;EDEL;;;AAWA;AAEA;EACE;EACA;;;AAGF;EAnBA,WCDK;EDEL;;;AAsBA;EACE,WCvBI;EDwBJ;;;AAGF;EA5BA,WCDK;EDEL;EA6BE;;;AAGF;EACE,WCjCI;EDkCJ;;;AEpCN;AACA;EACI;EACA;;;AAGF;EACE;;;AAGF;EACE;;;AAGF;EACE;;;AAGF;EACE;EACA;AAEA;;;AAGF;EACE;EACA;EACA,WD1BM;;;AC6BR;EACE;;;AChCJ;AACA;EACI;;;AAGF;EACE;EACA;EACA;;;AAGF;EACE,kBFTS;;;AGHb;AACA;EACI;;;AAGJ;EACI;EACA;EACA;EACA;EACA;EACA;;;AAGJ;EACI;EACA;EACA;EACA;EAEA;;;AAGJ;EACI;EACA;;;ACzBJ;AACA;EACI;;;AAEJ;EACI;EACA;EACA;EACA;EACA;;;AAEJ;EACI;EACA;;;AAEJ;EACI;;;AAEJ;EACI;;;AAGJ;EACI;EACA;;;AAEJ;EACI;EACA;EACA;EACA;EACA;EACA;EACA;;;AAGJ;EACI;EACA;EACA;EACA;EACA",
+    "file": "style.css"
+}
